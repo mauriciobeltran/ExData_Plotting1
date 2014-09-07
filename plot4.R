@@ -30,3 +30,4 @@ plot (epdata$datetime,epdata$global_reactive_power, type="l", xlab="datetime",
       ylab="Global_reactive_power")
 
 dev.off ()
+
