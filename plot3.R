@@ -20,3 +20,4 @@ legend ("topright",c ("sub_metering_1","sub_metering_2","sub_metering_3"),
         lty = c(1,1),y.intersp = 0.8,adj = c(0, 0.6))
 
 dev.off ()
+
