@@ -13,3 +13,4 @@ hist (epdata$global_active_power, main = paste("Global Active Power"),
       ylim = c(0,1300))
 
 dev.off ()
+
